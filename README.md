@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kentstan
-- 👀 I’m interested in Data Engineering and Science
+- 👀 I’m interested in Data Engineering
 - 🌱 I’m currently learning everything about DE 
 - 💞️ I’m looking to collaborate on DE projects
 - 📫 How to reach me enterchicagotomorrow@gmail.com
