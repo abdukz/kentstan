@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kentstan
+- 👋 Hi, I’m Abdu
 - 👀 I’m interested in Data Engineering
 - 🌱 I’m currently learning everything about DE 
 - 💞️ I’m looking to collaborate on DE projects
