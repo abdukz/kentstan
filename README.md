@@ -1,8 +1,3 @@
-- 👋 Hi, I’m Abdu
-- 👀 I’m interested in Data Engineering
-- 🌱 I’m currently learning everything about DE 
-- 💞️ I’m looking to collaborate on DE projects
-- 📫 How to reach me enterchicagotomorrow@gmail.com
 
 <!---
 kentstan/kentstan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
